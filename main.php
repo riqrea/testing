@@ -1,1 +1,1 @@
-change | stage | commit
+change | stage | commit -> perubahan
